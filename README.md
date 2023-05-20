@@ -4,9 +4,9 @@
 
 * Transform the data into a suitable format and perform necessary cleaning and pre-processing steps.
 
-* Apply different Machine Learning Regression models which predicts continuous variable ‘Selling_Price’.
+* Apply different Machine Learning Regression Algorithms which predicts continuous variable ‘Selling_Price’.
 
-* Apply different Machine Learning Classification models which predicts Status: WON or LOST.
+* Apply different Machine Learning Classification Algorithms which predicts Status: WON or LOST.
 
 ## Requirements
 
